@@ -1,0 +1,6 @@
+log : 2019-11-10 18:11:24 : 192.168.1.120 : Directory F:/proteger_system/work has been added
+log : 2019-11-10 18:11:24 : 192.168.1.120 : Directory F:\proteger_system\work\Cdap_pro has been added
+log : 2019-11-10 18:11:24 : 192.168.1.120 : Directory F:\proteger_system\work\nnnn has been added
+log : 2019-11-10 18:11:24 : 192.168.1.120 : Directory F:\proteger_system\work\OUSL has been added
+log : 2019-11-10 18:11:24 : 192.168.1.120 : Directory F:\proteger_system\work\SLIIT has been added
+log : 2019-11-10 18:11:24 : 192.168.1.120 : Directory F:\proteger_system\work\Teamdeathmatch has been added

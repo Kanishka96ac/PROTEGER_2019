@@ -1,0 +1,1 @@
+log : 2019-11-10 18:53:18 : 192.168.1.120 : Directory F:\proteger_system\work\New folder (2) has been removed

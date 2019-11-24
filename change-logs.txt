@@ -1,0 +1,1 @@
+log : 2019-11-10 18:54:11 : 192.168.1.120 : File F:\proteger_system\work\New Text Document.txt has been changed

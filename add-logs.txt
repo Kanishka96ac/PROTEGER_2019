@@ -1,0 +1,19 @@
+log : 2019-11-10 18:12:34 : 192.168.1.120 : File F:\proteger_system\work\DCCN.txt has been added
+log : 2019-11-10 18:12:34 : 192.168.1.120 : File F:\proteger_system\work\SLIIT\abs.txt has been added
+log : 2019-11-10 18:21:06 : 192.168.1.120 : File F:\proteger_system\work\DCCN.txt has been added
+log : 2019-11-10 18:21:06 : 192.168.1.120 : File F:\proteger_system\work\SLIIT\abs.txt has been added
+log : 2019-11-10 18:21:55 : 192.168.1.120 : File F:\proteger_system\work\New Text Document.txt has been added
+log : 2019-11-10 18:21:55 : 192.168.1.120 : File F:\proteger_system\work\New Text Document.txt has been added
+log : 2019-11-10 18:28:37 : 192.168.1.120 : File F:\proteger_system\work\dcddf.txt has been added
+log : 2019-11-10 18:28:37 : 192.168.1.120 : File F:\proteger_system\work\dcddf.txt has been added
+log : 2019-11-10 18:28:42 : 192.168.1.120 : File F:\proteger_system\work\dcddf - Copy.txt has been added
+log : 2019-11-10 18:28:42 : 192.168.1.120 : File F:\proteger_system\work\dcddf - Copy.txt has been added
+log : 2019-11-10 18:48:14 : 192.168.1.120 : File F:\proteger_system\work\DCCN.txt has been added
+log : 2019-11-10 18:48:14 : 192.168.1.120 : File F:\proteger_system\work\dcddf.txt has been added
+log : 2019-11-10 18:48:14 : 192.168.1.120 : File F:\proteger_system\work\dcddf - Copy.txt has been added
+log : 2019-11-10 18:48:14 : 192.168.1.120 : File F:\proteger_system\work\SLIIT\abs.txt has been added
+log : 2019-11-10 18:52:48 : 192.168.1.120 : File F:\proteger_system\work\dcddf.txt has been added
+log : 2019-11-10 18:52:48 : 192.168.1.120 : File F:\proteger_system\work\DCCN.txt has been added
+log : 2019-11-10 18:52:48 : 192.168.1.120 : File F:\proteger_system\work\dcddf - Copy.txt has been added
+log : 2019-11-10 18:52:48 : 192.168.1.120 : File F:\proteger_system\work\SLIIT\abs.txt has been added
+log : 2019-11-10 18:54:06 : 192.168.1.120 : File F:\proteger_system\work\New Text Document.txt has been added
